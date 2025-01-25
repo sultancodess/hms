@@ -21,6 +21,7 @@ import AdminDashboard from './pages/AdminDashboard';
 import DoctorDashboard from "./pages/DoctorDashboard";
 import ForgetPassword from './components/Forgot Password/forgetPassword';
 import ResetPassword from './components/Forgot Password/resetPassword';
+import Services from './components/Services/Services';
 
 function App() {
 
