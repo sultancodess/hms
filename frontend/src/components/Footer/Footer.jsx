@@ -25,15 +25,7 @@ const Footer = () => {
         {/* Social Media */}
         <div className="flex gap-4">
           <a
-            href="https://facebook.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:scale-110 transition-transform text-blue-600"
-          >
-            <FaFacebookF size={24} />
-          </a>
-          <a
-            href="https://twitter.com"
+            href="https://x.com/Sultan_Alam_21"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:scale-110 transition-transform text-blue-400"
@@ -41,7 +33,7 @@ const Footer = () => {
             <FaTwitter size={24} />
           </a>
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/sultan.codes/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:scale-110 transition-transform text-pink-500"
@@ -49,7 +41,7 @@ const Footer = () => {
             <FaInstagram size={24} />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/sultan-alam436/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:scale-110 transition-transform text-blue-700"
